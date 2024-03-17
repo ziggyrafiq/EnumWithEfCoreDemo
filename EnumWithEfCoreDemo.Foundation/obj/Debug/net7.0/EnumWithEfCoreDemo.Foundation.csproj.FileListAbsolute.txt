@@ -1,0 +1,12 @@
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\bin\Debug\net7.0\EnumWithEfCoreDemo.Foundation.deps.json
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\bin\Debug\net7.0\EnumWithEfCoreDemo.Foundation.dll
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\bin\Debug\net7.0\EnumWithEfCoreDemo.Foundation.pdb
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.dll
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\obj\Debug\net7.0\refint\EnumWithEfCoreDemo.Foundation.dll
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.pdb
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation\obj\Debug\net7.0\ref\EnumWithEfCoreDemo.Foundation.dll

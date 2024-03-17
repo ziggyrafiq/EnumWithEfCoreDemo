@@ -1,0 +1,12 @@
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\bin\Debug\net7.0\EnumWithEfCoreDemo.Foundation.Migrations.deps.json
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\bin\Debug\net7.0\EnumWithEfCoreDemo.Foundation.Migrations.dll
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\bin\Debug\net7.0\EnumWithEfCoreDemo.Foundation.Migrations.pdb
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.Migrations.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.Migrations.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.Migrations.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.Migrations.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.Migrations.dll
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\obj\Debug\net7.0\refint\EnumWithEfCoreDemo.Foundation.Migrations.dll
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\obj\Debug\net7.0\EnumWithEfCoreDemo.Foundation.Migrations.pdb
+E:\GitHub\Articles-Posts\ASP.net Core\API\EnumWithEfCoreDemo\EnumWithEfCoreDemo.Foundation.Migrations\obj\Debug\net7.0\ref\EnumWithEfCoreDemo.Foundation.Migrations.dll
